@@ -1,3 +1,3 @@
 # TicTacTrip
 
-Compare ticket price and distance between car, train and bus + Price prediction + dynamic visualisation 
+Compare ticket price and distance between car, train and bus + Price prediction + dynamic vizualisation 
